@@ -12,14 +12,14 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>Alex Sun</h2>
         <p><a href="mailto:SQCALEXANDER@GMAIL.COM">SQCALEXANDER@GMAIL.COM</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
+      <p>Hi, I&apos;m Alex. I like building things.
         I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
         the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
         at <a href="https://matroid.com">Matroid</a>
